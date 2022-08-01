@@ -1,0 +1,25 @@
+ 
+button{
+  margin: 1rem 0;
+  padding: 1rem;
+  font-weight: 400;
+   
+
+}
+button:hover{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+ 
+
+
+main{
+  text-align: center;
+  display: flex;
+flex-direction: column;
+text-align: center;
+align-items: center;
+}
+
+ 
